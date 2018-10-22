@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoBangCL.Standard", "GoBangCL.Standard\GoBangCL.Standard.csproj", "{69ECCFF8-6069-451E-81A7-3729B27DA052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69ECCFF8-6069-451E-81A7-3729B27DA052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ECCFF8-6069-451E-81A7-3729B27DA052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ECCFF8-6069-451E-81A7-3729B27DA052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ECCFF8-6069-451E-81A7-3729B27DA052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293214B0-5E31-4BA2-BD0B-303F18541FC0}
+	EndGlobalSection
+EndGlobal
